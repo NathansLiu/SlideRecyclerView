@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/type_1"
+        android:orderInCategory="1"
+        android:title="VERTICAL"/>
+
+    <item
+        android:id="@+id/type_2"
+        android:orderInCategory="1"
+        android:title="HORIZONTAL"/>
+    <item
+        android:id="@+id/type_3"
+        android:orderInCategory="1"
+        android:title="GRIDVIEW_VERTICAL"/>
+    <item
+        android:id="@+id/type_4"
+        android:orderInCategory="1"
+        android:title="GRIDVIEW_HORIZONTAL"/>
+    <item
+        android:id="@+id/type_5"
+        android:orderInCategory="1"
+        android:title="VERTICAL_"/>
+    <item
+        android:id="@+id/type_6"
+        android:orderInCategory="1"
+        android:title="HORIZONTAL_"/>
+
+</menu>
